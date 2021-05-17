@@ -1,0 +1,22 @@
+Links de los videos:
+HTML CSS Avanzado Parte 1:
+https://drive.google.com/file/d/1i6TgxHyjbcUfe1MM8Anrl9dzfFqnz2Fv/view?usp=sharing
+
+HTML CSS Avanzado Parte 2:
+https://drive.google.com/file/d/1fQi8B6xoHwCj6X6q8hJZsJe7ZxF3xnJ3/view?usp=sharing
+
+HTML CSS Avanzado Parte 3:
+https://drive.google.com/file/d/186kFFMKQhEMj_QadJdgS-Pc3tLFhdPBM/view?usp=sharing
+
+FontAwesome en HTML CSS:
+https://drive.google.com/file/d/1okCOEYmlNxaFZZoCKFOuOzFSU25MM1ez/view?usp=sharing
+
+Google Fonts en HTML CSS:
+https://drive.google.com/file/d/1p0v2VQBzL3UBnyqQZ7JYZ_uIN4fu3evY/view?usp=sharing
+
+Video Pseudoselectores:
+https://youtu.be/VIPLT7K0Dbk
+
+Animaciones con CSS:
+https://drive.google.com/file/d/1SWWzWGLuovJGSEY8zVKASyyBiurxHyhT/view?usp=sharing
+
