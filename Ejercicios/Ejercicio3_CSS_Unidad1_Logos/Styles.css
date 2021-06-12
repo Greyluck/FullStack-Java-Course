@@ -1,0 +1,29 @@
+body {
+  color: BLACK;
+  background-color: #fff;
+  margin : 9%;
+}
+
+footer {
+  background-color: #999;
+  color: black;
+  font-size: 12pt;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center; 
+};
+
+header {
+  background-color: #555555;
+  color: black;
+  font-size: 12pt;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center; 
+};
+
+p {
+color: black;
+font-size : 12pt;
+font-family : arial,helvetica;
+font-weight : normal;
+}
+

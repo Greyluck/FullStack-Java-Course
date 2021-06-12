@@ -1,0 +1,20 @@
+
+
+.red{
+  text-align: left;
+  background-color: red;
+  color: yellow;
+  width: 200px;
+  height: 200px;
+  vertical-align: top;
+  font-size: 24pt;
+}
+.black{
+  text-align: left;
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 200px;
+  vertical-align: top;
+  font-size: 24pt;
+}
