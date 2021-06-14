@@ -1,0 +1,1 @@
+Realizar un programa que permita ingresar al usuario nombre del alumno, 3 notas y muestre el promedio, utilizar lo visto en clase (Prompt, Alert)
