@@ -1,0 +1,13 @@
+document.getElementById(id)
+element.getElementsByTagName(name)
+document.createElement(name)
+parentNode.appendChild(node)
+element.innerHTML
+element.style.left
+element.setAttribute
+element.element.getAttribute
+element.addEventListener
+window.content
+window.onload
+window.dump
+window.scrollTo
